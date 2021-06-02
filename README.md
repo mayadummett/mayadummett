@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayadummett
 - 👀 I’m interested in using computer science as a vehicle for social good and progressive causes
-- 🌱 I’m currently learning Python, Swift, and Java
+- 🌱 I’m currently learning Python, Swift, and Java; Proficient in HTML/CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects that support social issues such as equity and inclusion as it pertains to race, education, etc
 - 📫 How to reach me: Maya Dummett on LinkedIn
 
