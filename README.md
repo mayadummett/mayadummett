@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayadummett
-- 👀 I’m interested in using the intersection of government/political and computer science as a vehicle for social change/social justice as it pertains to causes such as diversity, equity, and inclusion. 
+- 👀 I’m interested in using the intersection of government/political science and computer science as a vehicle for social change!
 - 🌱 I’m currently learning Java. I am proficient in HTML/CSS, JavaScript, Python, and Swift.
 - 💞️ I’m looking to collaborate on projects that support social issues/progressive causes!
 - 📫 How to reach me: Maya Dummett on LinkedIn (https://linkedin.com/in/mayadummett)
