@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mayadummett
+- 👋 Hi, I’m @mayadummett. I am a First-Year @ Harvard.
 - 👀 I’m interested in using the intersection of government/political science and computer science as a vehicle for social change!
-- 🌱 I am proficient in HTML/CSS, JavaScript, Java, and Swift.
+- 🌱 I am proficient in HTML/CSS, JavaScript, Java, Python, and C.
 - 💞️ I’m looking to collaborate on projects that support social issues/progressive causes!
 - 📫 How to reach me: Maya Dummett on LinkedIn (https://linkedin.com/in/mayadummett)
 
